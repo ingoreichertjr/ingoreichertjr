@@ -1,5 +1,10 @@
+# Bem vindo ao meu Mundo...
+
 Formado em Administração de Empresas e convicto de que é somente através de uma gestão de dados inteligente que as empresas conseguirão de fato oferecer valor a seus clientes e conseguirão crescer de forma sustentável...
-Por isso sou cientista de dados com conhecimento nas linguagens Python e R.
+
+# Por isso sou cientista de dados com conhecimento nas linguagens Python, R e SQL.
+
+Fique a vontade para conhecer melhor o meu trabalho e entrar em contato comigo:
 
 <a href="https://www.linkedin.com/in/ingoreichertjr" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
