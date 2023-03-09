@@ -19,7 +19,6 @@ Fique a vontade para conhecer melhor o meu trabalho e entrar em contato comigo:
 Minhas stacks de trabalho:
 
 <br>
-<br>
 <div align="center">
   <a href="https://github.com/ingoreichertjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingoreichertjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
