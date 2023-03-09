@@ -1,3 +1,6 @@
+Formado em Administração de Empresas e convicto de que é somente através de uma gestão de dados inteligente que as empresas conseguirão de fato oferecer valor a seus clientes e conseguirão crescer de forma sustentável...
+Por isso sou cientista de dados com conhecimento nas linguagens Python e R.
+
 <a href="https://www.linkedin.com/in/ingoreichertjr" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
@@ -6,7 +9,6 @@
 <img src="https://user-images.githubusercontent.com/80931224/223973814-4aae1890-5da0-4ed9-b1d0-cb79e099f751.png">
 </a>
 
-- 🔭 Data Scientist especializado nas linguagens R e Python
 
 <div align="center">
   <a href="https://github.com/ingoreichertjr">
