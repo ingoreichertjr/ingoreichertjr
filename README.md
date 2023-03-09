@@ -1,7 +1,6 @@
 ### Seja Bem vindo! Sinta-em casa e fique a vontade...
 
-- 🔭 Hoje trabalho com com back-end
-- 🌱 Estudando banco de dados
+- 🔭 Data Scientist especializado nas linguagens R e Python
 
 <div align="center">
   <a href="https://github.com/ingoreichertjr">
