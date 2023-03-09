@@ -26,4 +26,5 @@ Minhas stacks de trabalho:
   <img align="center" alt="Ingo-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ingo-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Ingo-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+  <img align="center" alt="Ingo-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgres/postgres-original.svg">
 
