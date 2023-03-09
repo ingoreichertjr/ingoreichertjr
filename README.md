@@ -1,4 +1,6 @@
-### Seja Bem vindo! Sinta-em casa e fique a vontade...
+<a href="https://www.linkedin.com/in/usuario" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 
 - 🔭 Data Scientist especializado nas linguagens R e Python
 
