@@ -2,6 +2,10 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
+<a href="https://medium.com/@ingoreichertjr" target="_blank">
+<img src="https://medium.design/logos-and-brand-guidelines-f1a01a733592" target="_blank">
+</a>
+
 - 🔭 Data Scientist especializado nas linguagens R e Python
 
 <div align="center">
