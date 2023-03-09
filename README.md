@@ -13,7 +13,9 @@ Fique a vontade para conhecer melhor o meu trabalho e entrar em contato comigo:
 <a href="https://medium.com/@ingoreichertjr" target="_blank">
 <img src="https://user-images.githubusercontent.com/80931224/223973814-4aae1890-5da0-4ed9-b1d0-cb79e099f751.png">
 </a>
-
+<br>
+Minhas stacks de trabalho:
+<br>
 
 <div align="center">
   <a href="https://github.com/ingoreichertjr">
