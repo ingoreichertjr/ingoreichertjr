@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://medium.com/@ingoreichertjr" target="_blank">
-<img src="https://medium.design/logos-and-brand-guidelines-f1a01a733592" target="_blank">
+<img src="https://user-images.githubusercontent.com/80931224/223973814-4aae1890-5da0-4ed9-b1d0-cb79e099f751.png">
 </a>
 
 - 🔭 Data Scientist especializado nas linguagens R e Python
