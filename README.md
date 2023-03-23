@@ -32,5 +32,5 @@ Minhas stacks de trabalho:
   <img align="center" alt="Ingo-Postgres" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Ingo-Postgres" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Ingo-Postgres" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-   <img align="center" alt="Ingo-Postgres" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pyspark/pyspark-original.svg">
-
+   <img align="center" alt="Ingo-Postgres" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   <img align="center" alt="Ingo-Postgres" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
