@@ -35,3 +35,4 @@ Minhas stacks de trabalho:
    <img align="center" alt="Ingo-Postgres" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" alt="Ingo-Postgres" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
    <img align="center" alt="Ingo-Postgres" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+   <img align="center" alt="Ingo-Postgres" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
