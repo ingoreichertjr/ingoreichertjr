@@ -2,7 +2,7 @@
 
 Formado em Administração de Empresas e convicto de que é somente através de uma gestão de dados inteligente que as empresas conseguirão de fato oferecer valor a seus clientes e conseguirão crescer de forma sustentável...
 
-### Por isso sou cientista e analista de dados com conhecimento nas linguagens Python, R, SQL e Power BI.
+### Por isso sou Cientista e Analista de Dados com conhecimento nas linguagens Python, R, SQL e Power BI.
 
 Fique a vontade para conhecer melhor o meu trabalho e entrar em contato comigo:
 
